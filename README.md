@@ -2,4 +2,4 @@
 
 React component library
 
- ![screeshot](reactcomponentlibrary.png)
+ ![screeshot](images/reactcomponentlibrary.png)
